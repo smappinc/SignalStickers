@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--primary theme-->
+    <color name="color_light_primary">#2c6bed</color>
+    <color name="color_light_status_bar">#2c6bed</color>
+    <color name="color_light_accent">#1851b4</color>
+    <color name="color_light_background">#FFFFFF</color>
+    <color name="color_light_navigation_drawer">#FFFFFF</color>
+    <color name="color_light_progress_indicator">#03A9F4</color>
+    <color name="color_light_native_ad_background">#F3F3F3</color>
+    <color name="color_light_title_toolbar">#FFFFFF</color>
+    <color name="color_light_text">#292929</color>
+
+    <!--dark theme color-->
+    <color name="color_dark_status_bar">#0F1D24</color>
+    <color name="color_dark_toolbar">#222D36</color>
+    <color name="color_dark_accent">#4e575d</color>
+    <color name="color_dark_background">#101d25</color>
+    <color name="color_dark_navigation_drawer">#243A46</color>
+    <color name="color_dark_progress_indicator">#BDC0C3</color>
+    <color name="color_dark_native_ad_background">#222D36</color>
+    <color name="color_dark_title_toolbar">#FFFFFF</color>
+    <color name="color_dark_text">#BDC0C3</color>
+    <color name="color_dark_dialog">#384756</color>
+
+    <!--others-->
+    <color name="color_selected_item">#6191f3</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_black">#000000</color>
+    <color name="color_separator">#efefef</color>
+    <color name="color_dialog_background_light">#5E000000</color>
+    <color name="color_dialog_status_bar_light">#6191f3</color>
+    <color name="color_dialog_navigation_bar_light">#989A9C</color>
+    <color name="color_dialog_background_dark">#334150</color>
+    <color name="color_dialog_background_dark_overlay">#5E000000</color>
+    <color name="color_dialog_status_bar_dark">#091217</color>
+    <color name="color_dialog_navigation_bar_dark">#151C21</color>
+
+</resources>

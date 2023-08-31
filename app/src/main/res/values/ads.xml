@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--AdMob or Google Ad Manager App ID-->
+    <string name="admob_app_id">ca-app-pub-6991932537186982~6681797806</string>
+
+    <!--AppLovin SDK Key-->
+    <string name="applovin_sdk_key">x5ImfykxaMWsntpF6fuVOz9HLQ0abtnmqy4iDgM8EkMRML7WCdvXXXXXXXX</string>
+
+</resources>
